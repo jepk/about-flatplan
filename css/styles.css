@@ -3913,7 +3913,8 @@ a.text-brown {
 .designers,
 .ds-pic,
 .other-pic,
-.other {
+.other,
+.smi {
   background-color: #fff;
   padding-left: 40px;
   padding-top: 40px;
@@ -3931,6 +3932,7 @@ a.text-brown {
 .pic-one img {
   width: 700px;
 }
+
 
 .pic-one .descr {
   margin-left: 100px;
@@ -3973,6 +3975,7 @@ a.text-brown {
   padding-right: 15px;
 }
 
+.team-1 img,
 .other-pic img {
   width: 400px;
 }
@@ -3988,4 +3991,17 @@ a.text-brown {
 
 .other {
   padding-bottom: 40px;
+}
+
+.r5 {
+  margin-left: -10px;
+}
+
+.pdn {
+  height: 40px;
+}
+
+.team-span {
+  font-size: 36px;
+  line-height: 42px;
 }
