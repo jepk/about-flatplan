@@ -3917,8 +3917,9 @@ a.text-brown {
 .smi {
   background-color: #fff;
   padding-left: 40px;
-  padding-top: 40px;
+  padding-top: 20px;
   padding-right: 40px;
+  padding-bottom: 20px;
 }
 
 .us-about, .r1 {
@@ -3950,7 +3951,11 @@ a.text-brown {
 }
 
 .prepared-main {
-  padding-bottom: 20px;
+  padding-bottom: 40px;
+}
+
+.prepared-main .txt_block {
+  padding-bottom: 60px;
 }
 
 .team-pd div{
@@ -3994,14 +3999,19 @@ a.text-brown {
 }
 
 .r5 {
-  margin-left: -10px;
+  margin-left:  4px;
 }
 
 .pdn {
   height: 40px;
 }
 
-.team-span {
-  font-size: 36px;
-  line-height: 42px;
+.smi {
+  padding-bottom: 40px;
+}
+
+.video-section {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #fff;
 }
