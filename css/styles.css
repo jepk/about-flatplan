@@ -3929,7 +3929,7 @@ a.text-brown {
 
 
 .pic-one img {
-  width: 700px;
+  width: 750px;
 }
 
 
@@ -3949,11 +3949,11 @@ a.text-brown {
 }
 
 .prepared-main {
-  padding-bottom: 40px;
+  padding-bottom: 30px;
 }
 
-.prepared-main .txt_block {
-  padding-bottom: 60px;
+.prepared .txt_block {
+  padding-bottom: 40px;
 }
 
 .team-pd div{
@@ -3966,7 +3966,7 @@ a.text-brown {
 
 .r1 {
   padding-top: 0;
-  padding-left: 10px;
+  padding-left: 0px;
 }
 
 .r2 {
@@ -3998,7 +3998,8 @@ a.text-brown {
 }
 
 .r5 {
-  margin-left:  4px;
+  margin-left:  25px;
+  padding-top: 15px;
 }
 
 .pdn {
@@ -4014,4 +4015,8 @@ a.text-brown {
   padding-top: 20px;
   padding-bottom: 20px;
   background-color: #fff;
+}
+
+.sl-tm {
+  margin-left: 30px;
 }
