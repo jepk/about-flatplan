@@ -3970,7 +3970,7 @@ a.text-brown {
 }
 
 .r2 {
-  padding-right: 70px;
+  padding-right: 0px;
   padding-left: 10px;
 }
 
@@ -4019,4 +4019,12 @@ a.text-brown {
 
 .sl-tm {
   margin-left: 30px;
+}
+
+.crs {
+  font-style: italic;
+}
+
+.gld {
+  color: #a87f53;
 }
