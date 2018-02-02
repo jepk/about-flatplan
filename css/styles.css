@@ -3954,6 +3954,7 @@ a.text-brown {
 
 .prepared .txt_block {
   padding-bottom: 40px;
+  padding-top: 20px;
 }
 
 .team-pd div{
@@ -3998,7 +3999,7 @@ a.text-brown {
 }
 
 .r5 {
-  margin-left:  25px;
+  margin-left:  20px;
   padding-top: 15px;
 }
 
@@ -4009,6 +4010,10 @@ a.text-brown {
 .all-know {
   padding-top: 40px;
   padding-bottom: 40px;
+}
+
+.all-know li {
+  padding-bottom: 10px;
 }
 
 .video-section {
